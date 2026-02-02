@@ -21,12 +21,6 @@ Este proyecto sirve como base para crear, probar y escalar bots de Telegram de f
 <groupId>org.springframework.boot</groupId>
 <artifactId>spring-boot-starter-parent</artifactId>
 <version>3.2.5</version>
-
-<dependency>
-  <groupId>org.telegram</groupId>
-  <artifactId>telegrambots-spring-boot-starter</artifactId>
-  <version>6.9.7.1</version>
-</dependency>
 ```
 ### Telegram Bots API 
 ```xml
